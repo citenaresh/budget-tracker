@@ -2,7 +2,7 @@
 This Budget Tracker app allows user to track their budget online or offline. 
 
 ## Description 
-Created a budget tracking app utilizing Node.js, Express.js, MongoDB, Heroku and Mongoose. Majority of the front end code was provided in a homework prompt as part of a web development boot camp. Allows the user to track their budget and save them in a database.
+Created a budget tracking app utilizing Node.js, Express.js, MongoDB, Heroku and Mongoose. Majority of the front end code was provided in a homework prompt as part of a web development boot camp. This app allows the user to track their budget and save them in a database.
 
 ## Live site: 
 https://track-d-budget.herokuapp.com/
